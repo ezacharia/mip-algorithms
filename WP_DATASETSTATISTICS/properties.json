@@ -1,0 +1,14 @@
+{
+  "name"   : "WP_DATASETSTATISTICS",
+  "desc"   : "",
+  "type"   : "local",
+  "status" : "disabled",
+  "vtype"  :  "none",
+  "parameters" : [
+    {"name" : "input_local_tbl", "desc" : "", "value" : ""},
+    {"name" : "output_tbl", "desc" : "", "value" : ""},
+    {"name" : "column1", "desc" : "", "value" : ""},
+    {"name" : "column2", "desc" : "", "value" : ""},
+    {"name" : "nobuckets", "desc" : "", "value" : ""}
+  ]
+}
